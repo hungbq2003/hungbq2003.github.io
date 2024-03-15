@@ -1,0 +1,20 @@
+.admin-login{
+	width:200px;
+	text-align: center;
+	margin:auto;
+}
+.mynav{
+	background-color: #3A2A30;
+}
+.title{
+	font-family: 'Roboto Slab', serif;
+}
+.content{
+	font-family: 'Roboto Slab', serif;
+}
+.post{
+	-webkit-box-shadow: 0px 5px 6px 4px rgba(48, 50, 50, 0.39);
+	-moz-box-shadow:    0px 5px 6px 4px rgba(48, 50, 50, 0.39);
+	box-shadow:         0px 5px 6px 4px rgba(48, 50, 50, 0.39);
+	padding:10px;
+}
